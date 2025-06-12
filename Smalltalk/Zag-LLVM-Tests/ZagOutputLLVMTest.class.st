@@ -65,7 +65,7 @@ ZagOutputLLVMTest >> setUp [
 ZagOutputLLVMTest >> testAdd [
 
 	output primitiveSmallIntegerPlus.
-	textOut contents inspect
+	textOut contents inspect "testing commit"
 ]
 
 { #category : 'tests' }
